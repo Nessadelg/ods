@@ -1,0 +1,29 @@
+#descrição{
+text-align: center;
+font-family:'Times New Roman', Times, serif;
+font-style: italic;
+font-size: 20px;
+}
+#objetivos{
+    text-align: left;
+    font-size:x-large;
+}
+
+.container{
+    background-color: lightgray;
+    margin: 40px;
+    display:flex
+    
+}
+
+#vídeo{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+#site{
+    margin: 30px;
+    text-align: left;
+    font-size: x-large;
+}
+
